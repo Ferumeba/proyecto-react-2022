@@ -1,0 +1,11 @@
+.details-regresar {
+    padding-top: 1rem;
+}
+
+.linkRegresar {
+    background: white;
+    text-decoration: none;
+    color: darkblue;
+    padding: 0.5rem;
+    border-radius: 8px;
+}
